@@ -1,0 +1,11 @@
+.wrapper {
+  text-align: center;
+}
+
+.text {
+  font-weight: 600;
+  font-size: 25px;
+  color: #bbced8;
+
+  text-shadow: #7c8814 1px 1px 0;
+}
